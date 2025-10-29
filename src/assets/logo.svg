@@ -1,0 +1,7 @@
+<svg width="300" height="100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Druppelvorm links -->
+  <path d="M50,10 C70,50 30,90 50,90 C70,90 90,50 50,10 Z" fill="#4A90E2"/>
+  
+  <!-- Tekst rechts van de druppel -->
+  <text x="110" y="60" font-family="Arial, sans-serif" font-size="48" fill="#333">Sul</text>
+</svg>

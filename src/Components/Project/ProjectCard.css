@@ -1,0 +1,18 @@
+.services-format {
+display: flex;
+flex-direction: column;
+justify-content: center;
+gap: 20px;
+padding: 60px;
+border-radius: 10px;
+border: 2px solid #0077ff;
+transition: 0.4s;
+cursor: pointer;
+}
+
+.services-readmore {
+display: flex;
+gap: 20px;
+align-items: center;
+margin-top: 20px;
+}
