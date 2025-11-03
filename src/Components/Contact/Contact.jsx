@@ -38,7 +38,7 @@ const Contact = () => {
           className="contact-right"
           onSubmit={() => alert("Bericht succesvol verzonden!")}
         >
-          {/* Web3Forms key */}
+         
           <input
             type="hidden"
             name="access_key"
