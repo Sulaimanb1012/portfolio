@@ -6,22 +6,24 @@ import Project5 from "./project_4.png";
 import Project6 from "./project_5.png";
 
 const Services_Data = [
-  {
-    id: 1,
-    s_no: "01",
-    s_name: "Web design",
-    s_desc:
-      "Ik ontwerp en bouw moderne websites. Een voorbeeld hiervan is mijn eigen portfolio website die ik heb gemaakt met React.",
-    s_img: Project1,
-  },
-  {
-    id: 2,
-    s_no: "02",
-    s_name: "Graphics design",
-    s_desc:
-      "Ik maak visuele ontwerpen voor websites en mobiele apps, zoals lay-outs, logo’s en UI-elementen die goed passen bij de stijl van het project.",
-    s_img: Project2,
-  },
+{
+  id: 1,
+  s_no: "01",
+  s_name: "CodeCampus Web Platform",
+  s_desc:
+    "Voor CodeCampus heb ik gewerkt aan het verbeteren en uitbreiden van het platform. Ik heb bugs opgelost en nieuwe functionaliteiten toegevoegd, waaronder een login-systeem en een review- en ratingsysteem voor cursussen.",
+  s_img: Project1,
+},
+
+{
+  id: 2,
+  s_no: "02",
+  s_name: "MERN Game Dashboard",
+  s_desc:
+    "Ik heb een game dashboard gebouwd met de MERN-stack, waarbij ik Node.js en Express gebruikte voor de backend, REST API’s ontwikkelde en data beheerde met MongoDB. De applicatie toont game-statistieken en gebruikersdata in een overzichtelijke React-interface.",
+  s_img: Project2,
+},
+
   {
     id: 3,
     s_no: "03",

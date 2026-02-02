@@ -1,8 +1,8 @@
 .navbar{
-display: flex;
-align-items: center;
-justify-content: space-between;
-margin: 17px 170px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 17px 170px;
 }
 
 .nav-menu {
